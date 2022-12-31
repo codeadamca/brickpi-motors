@@ -6,7 +6,7 @@ This example turns on the Raspberry Pi on board LED and Power Function component
 
 This example requires the [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) VS Code extension to be installed.
 
-<img src="https://raw.githubusercontent.com/codeadamca/brickpi-touch/main/motors.jpg" width="400">
+<img src="https://raw.githubusercontent.com/codeadamca/brickpi-motors/main/motors.jpg" width="400">
 
 ## Tutorial Requirements:
 
