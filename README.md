@@ -6,9 +6,11 @@ This example turns on two EV3 motors when the touch sensor is pushed.
 
 This example requires the [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) VS Code extension to be installed.
 
-<img src="https://raw.githubusercontent.com/codeadamca/brickpi-motors/main/motors.jpg" width="400">
+![BrickPi Diagram](_readme/motors.jpg)
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Dexter BrickPi](https://www.dexterindustries.com/BrickPi/)
 * [BrickPi3](https://github.com/DexterInd/BrickPi3)
